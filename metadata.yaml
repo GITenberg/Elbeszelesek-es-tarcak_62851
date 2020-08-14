@@ -1,0 +1,40 @@
+_repo: Elbeszelesek-es-tarcak_62851
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rákosi, Viktor
+    alias: Rakosi, Viktor
+    birthdate: 1860
+    deathdate: 1923
+    gutenberg_agent_id: '52157'
+    url: http://www.gutenberg.org/2009/agents/52157
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/R%C3%A1kosi_Viktor
+    - https://en.wikipedia.org/wiki/Viktor_R%C3%A1kosi
+description: ''
+gutenberg_issued: '2020-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62851'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Hungarian'
+- !lcsh 'Hungarian fiction'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Taraszovics reggele -- A tolvaj -- A mit a laxenburgi fák suttognak
+  -- Egy kő naplója -- A ravasz Miska -- Egy arany a hó alatt -- Kelemen és Pattantyus
+  -- Négy nemzet -- Egy számüzött király -- Okos állatok -- A legnagyobb humorista
+  -- A tenger -- A tenger munkásai -- Az ezredes -- Két testvér -- Uledi -- A veréb
+  -- A muszka -- A füst -- Alkotmányos lumpolás -- Az egy élő -- Wilhelm -- A nevelő
+  -- Iduska -- És még sem mozog a föld -- Az oroszlánbőr -- Levél a Jézuskához --
+  Ahmed -- A december -- Mindennapi alakok -- Kiáltás az éjszakában -- A calumpiti
+  győző -- Steevens -- Los mismos perros -- Harctéri levelezők -- Alattvalóim -- Turin
+  -- Vizió -- Éjjeli kaland -- Vasárnapi munkaszünet -- Történet a Gouyon-utcából
+  -- Birkózás -- Séta a Keleten -- Az egri remete -- A magyar főváros -- A csengődi
+  pusztán -- A nagy tűznél -- A bur tokány.
+title: Elbeszélések és tárcák
+url: http://www.gutenberg.org/ebooks/62851
